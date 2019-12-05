@@ -1,5 +1,9 @@
 # ddd-kitchenpos
 
+## 코드 리뷰
+
+[next-step/ddd-kitchenpos](https://github.com/next-step/ddd-kitchenpos/pull/37)
+
 ## 요구 사항
 
 - 간단한 포스 프로그램을 구현한다.
